@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/mindongjun/Desktop/22-여름방학_스터디/tf2",
+      "program": "/Users/mindongjun/Desktop/22-여름방학_스터디/tf2/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
